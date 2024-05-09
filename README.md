@@ -8,6 +8,7 @@ chromadb # Vector storage
 pytest
 
 Install:
+`pip install -r requirements.txt`
 
 ollama
 

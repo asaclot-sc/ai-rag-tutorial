@@ -1,4 +1,7 @@
-pypdf
-langchain
-chromadb # Vector storage
-pytest
+pytest                  # Unit tests
+
+langchain               # Core library
+langchain_community     # Community addons
+
+pypdf                   # PDF parsing
+chromadb                # Vector storage
