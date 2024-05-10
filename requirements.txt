@@ -1,7 +1,8 @@
-pytest                  # Unit tests
+pytest                   # Unit tests
 
-langchain               # Core library
-langchain_community     # Community addons
+langchain                # Core library
+langchain_community      # Community addons
+langchain_text_splitters # Text splitting
 
-pypdf                   # PDF parsing
-chromadb                # Vector storage
+pypdf                    # PDF parsing
+chromadb                 # Vector storage
